@@ -5,4 +5,4 @@ Pytorch implementation of paper "AN ACCURATE SPATIAL TEMPORAL GRAPH ATTENTION NE
 All the data comes from the STGAT model without any further processing.
 You can adjust epoch = 600 or 400 for visualization
 # STGAT:https://github.com/huang-xx/STGAT
-
+Due to insufficient dataset storage, downloads of datasets should be forwarded to the STGAT project for download.
